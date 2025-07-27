@@ -1,6 +1,6 @@
 # MLP from Scratch – PMAT 403 Project
 
-This repository contains a NumPy-based implementation of a simple **Multilayer Perceptron (MLP)** as part of a project for **PMAT 403**. It includes code for generating synthetic 2D datasets, training the MLP using different backpropagation strategies, and visualizing decision boundaries.
+This repository contains a NumPy-based implementation of a simple **Multilayer Perceptron (MLP)** as part of a project for my course on Pattern Recognition **PMAT 403**. It includes code for generating synthetic 2D datasets, training the MLP using different backpropagation strategies, and visualizing decision boundaries.
 
 ## 🧠 Features
 
